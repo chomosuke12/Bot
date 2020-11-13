@@ -53,13 +53,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlenSaito1/Whatsapp-Anime-Bot.git"
+    "url": "git+https://github.com/chomosuke12/Bot"
   },
   "keywords": [
-    "Whatsapp-Bot"
+    "Bot"
   ],
   "bugs": {
-    "url": "https://github.com/AlenSaito1/Whatsapp-Anime-Bot.git"
+    "url": "https://github.com/chomosuke12/Bot"
   },
-  "homepage": "https://github.com/AlenSaito1/Whatsapp-Anime-Bot.git"
+  "homepage": "https://github.com/chomosuke12/Bot"
 }
